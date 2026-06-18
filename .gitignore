@@ -1,0 +1,22 @@
+# === All of Us DUA: never commit participant-level data ===
+*.rds
+*.RData
+*.rda
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.xlsx
+data/
+outputs/
+df_analytic*
+m_*.rds
+*sleep_daily*
+*heart_rate*
+*.log
+# Allow code and docs only:
+!*.R
+!*.Rmd
+!*.md
+!.gitignore
+!README*
