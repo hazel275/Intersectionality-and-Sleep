@@ -28,8 +28,6 @@ Run the blocks in order, 00 through 13.
 ## Files
 
 - Sleep_Analysis_CDRv8_Annotated.R. The complete, annotated pipeline. This is the canonical analysis file.
-- Sleep_Supplement_Regen_FINAL.R. Regenerates the supplement tables from the saved model frame.
-- github_publish_sleep_DUA_safe.R. The DUA-safe publishing workflow, which gates on the sub-20 rule before pushing.
 
 ## Models
 
